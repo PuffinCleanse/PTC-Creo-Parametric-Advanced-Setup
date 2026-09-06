@@ -1,0 +1,23 @@
+{
+  "repo": "ptc-creo-parametric-advanced-setup",
+  "product": "PTC Creo Parametric Advanced Setup",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "cad",
+  "topics": [
+    "ptc-creo",
+    "parametric-cad",
+    "assembly-modeling",
+    "drawing-views",
+    "mechanical-design",
+    "creo-setup-failed-fix",
+    "how-to-install-creo",
+    "creo-windows",
+    "creo-desktop-2026",
+    "creo-desktop-package"
+  ],
+  "site": "toolix.me"
+}
